@@ -1,5 +1,1 @@
-{States: 'TEXAS' , EventCount: 4701,TotalDeathCount :77 ,TotalInjuries:530 },
-    {States: 'KANSAS' , EventCount: 3166,TotalDeathCount: 31,TotalInjuries: 150 },
-    {States: 'IOWA' , EventCount: 2337,TotalDeathCount :5,TotalInjuries :23},
-    {States: 'ILLINOIS' , EventCount:2022 ,TotalDeathCount:37,TotalInjuries :153},
-    {States: 'MISSOURI' , EventCount: 2016,TotalDeathCount:23,TotalInjuries :988}
+{States: 'TEXAS' , EventCount: 4701,TotalDeathCount :77 ,TotalInjuries:530 },{States: 'KANSAS' , EventCount: 3166,TotalDeathCount: 31,TotalInjuries: 150 },{States: 'IOWA' , EventCount: 2337,TotalDeathCount :5,TotalInjuries :23},{States: 'ILLINOIS' , EventCount:2022 ,TotalDeathCount:37,TotalInjuries :153},{States: 'MISSOURI' , EventCount: 2016,TotalDeathCount:23,TotalInjuries :988}
